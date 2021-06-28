@@ -1,2 +1,4 @@
 # Codecademy-Courses
-Codecademy Courses Files
+Codecademy Courses Material
+
+This repository contains the code which done during the completion of the courses 
