@@ -2,7 +2,7 @@
 
 This repository contains the code which is done during the completion of the courses
 
-### Folder Structure
+## Folder Structure
 
 Codecademy-Courses/
   ├── Learn HTML
@@ -18,7 +18,7 @@ Codecademy-Courses/
   │           └── style.css
   └── README.md
 
-### Setup
+## Setup
 
 1. Start the WAMP server.
 2. Open the phpMyAdmin and create a database "lifestylestore". 
