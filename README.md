@@ -1,4 +1,5 @@
 # Codecademy-Courses
+
 Codecademy Courses Material
 
 This repository contains the code which is done during the completion of the courses
@@ -19,7 +20,8 @@ Codecademy-Courses/
   │           └── style.css
   └── README.md
 
-### Setup		
+### Setup
+
 1.) Start the WAMP server.
 2.) Open the phpMyAdmin and create a database "lifestylestore". 
 3.) Import the lifestylestore.sql file present in the zip folder.
