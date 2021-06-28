@@ -16,7 +16,7 @@ Codecademy-Courses/ \
   │       └── Wine Festival Schedule\
   │           ├── index.html\
   │           └── style.css\
-  └── README.md\
+  └── README.md
 
 ## Setup
 
