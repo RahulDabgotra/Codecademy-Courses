@@ -1,7 +1,5 @@
 # Codecademy-Courses
 
-Codecademy Courses Material
-
 This repository contains the code which is done during the completion of the courses
 
 ### Folder Structure
