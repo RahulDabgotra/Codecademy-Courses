@@ -5,18 +5,18 @@ This repository contains the code which is done during the completion of the cou
 ## Folder Structure
 
 Codecademy-Courses/ \
-  ├── Learn HTML \
+  ├── Learn HTML\
   │   ├── 1. Elements and Structure\
   │   │   ├── Fashon Blog\
-  │   │   └── Index.html
-  │   └── 2. Tables
-  │       ├── Ship To It
-  │       │   ├── index.html
-  │       │   └── style.css
-  │       └── Wine Festival Schedule
-  │           ├── index.html
-  │           └── style.css
-  └── README.md
+  │   │   └── Index.html\
+  │   └── 2. Tables\
+  │       ├── Ship To It\
+  │       │   ├── index.html\
+  │       │   └── style.css\
+  │       └── Wine Festival Schedule\
+  │           ├── index.html\
+  │           └── style.css\
+  └── README.md\
 
 ## Setup
 
