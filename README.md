@@ -4,8 +4,8 @@ This repository contains the code which is done during the completion of the cou
 
 ## Folder Structure
 
-Codecademy-Courses/
-  ├── Learn HTML
+Codecademy-Courses/ \
+  ├── Learn HTML \
   │   ├── 1. Elements and Structure
   │   │   ├── Fashon Blog
   │   │   └── Index.html
