@@ -6,7 +6,7 @@ This repository contains the code which is done during the completion of the cou
 
 Codecademy-Courses/ \
   ├── Learn HTML\
-  │   ├── 1. Elements and Structure\
+  │&emsp;├── 1. Elements and Structure\
   │   │   ├── Fashon Blog\
   │   │   └── Index.html\
   │   └── 2. Tables\
