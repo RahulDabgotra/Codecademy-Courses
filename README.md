@@ -20,7 +20,7 @@ Codecademy-Courses/ \
 
 ## Setup
 
-1. Download/clone the repo.
+1. Download/clone the repository.
 2. Open the folder 📁 with index.html file.
 3. Click on the index.html and open with a browser like chrome. 
 
