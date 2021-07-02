@@ -6,16 +6,16 @@ This repository contains the code which is done during the completion of the cou
 
 Codecademy-Courses/ \
   ├── Learn HTML\
-  │&emsp;├── 1. Elements and Structure\
-  │   │   ├── Fashon Blog\
-  │   │   └── Index.html\
-  │   └── 2. Tables\
-  │       ├── Ship To It\
-  │       │   ├── index.html\
-  │       │   └── style.css\
-  │       └── Wine Festival Schedule\
-  │           ├── index.html\
-  │           └── style.css\
+  │&emsp;&emsp;├── 1. Elements and Structure\
+  │&emsp;&emsp;│&emsp;&emsp;├── Fashon Blog\
+  │&emsp;&emsp;│&emsp;&emsp;└── Index.html\
+  │&emsp;&emsp;├── 2. Tables\
+  │&emsp;&emsp;│&emsp;&emsp;├── Ship To It\
+  │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;├── index.html\
+  │&emsp;&emsp;│&emsp;&emsp;│&emsp;&emsp;└── style.css\
+  │&emsp;&emsp;│&emsp;&emsp;├── Wine Festival Schedule\
+  │&emsp;&emsp;│&emsp;&emsp; &emsp;&emsp;├── index.html\
+  │&emsp;&emsp;│&emsp;&emsp; &emsp;&emsp;└── style.css\
   └── README.md
 
 ## Setup
